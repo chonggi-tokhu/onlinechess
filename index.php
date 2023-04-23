@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-
+ 
 <head>
     <script src="/docs/chess/martycopy1_files/jquery-3.4.1.min.js"></script>
     <meta charset="UTF-8">
